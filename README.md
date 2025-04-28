@@ -1,0 +1,2 @@
+# NewProject
+GIT training
